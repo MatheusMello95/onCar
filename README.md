@@ -15,12 +15,12 @@ updated DATETIME)
 
 ## Routes
  * GET /veiculos
-   Listagem de veiculos
+   * Listagem de veiculos
  * GET /veiculos/{$id}
-   Listagem do carro selecionado
+   * Listagem do carro selecionado
  * POST /veiculos
-   Inserir novo carro
+   * Inserir novo carro
  * PUT /veiculos/{$id}
-   Alteração do veiculo
+   * Alteração do veiculo
  * DELETE /veiculos/{$id}
-   Deletar veiculo
+   * Deletar veiculo
